@@ -1,89 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mx4vd1Bo)
+1 Using String Objects -- DONE\
+![image](https://github.com/OOP-Classroom/oop-portfolio-2024-Prajjwal-Rimal/assets/132150362/c285da54-bacd-4d39-bbcf-a804da457a5b)
 
-# OOP 2024 Portfolio
-## PRAJJWAL RIMAL
-### SECTION D 
-### Lecturer: DHARMA RAJ POUDEL
+2 Dice -- DONE\
+![image](https://github.com/OOP-Classroom/oop-portfolio-2024-Prajjwal-Rimal/assets/132150362/f51bad26-686a-474b-8099-51ac5d782785)
 
+3 Formatting Output -- DONE\
+![image](https://github.com/OOP-Classroom/oop-portfolio-2024-Prajjwal-Rimal/assets/132150362/ea682e24-000d-404c-b6fc-9cf2afaead39)
 
+4 Pin Encryption -- DONE\
+![image](https://github.com/OOP-Classroom/oop-portfolio-2024-Prajjwal-Rimal/assets/132150362/5a150408-2f0e-4b34-825f-931fdae798ab)
 
-## Work Schedule
-**1 Getting Started**\
-**committed by 5th February**\
-1 Hello World        --completed\
-2 Test               -- completed\
-3 Personal Details   -- completed\
-4 Diamonds           -- completed\
-5 Questions          -- completed
-
-**2 Data and Expressions**\
-**committed by 19th February**\
-1 Table of Student Grades  -- completed\
-2 Computing Averages       -- completed\
-3 Miles to Kilometers      -- completed\
-4 Square Calculation       -- completed\
-5 Fraction -- to do        -- completed
-
-**3 Selection and Iteration**\
-**committed by 26th February**\
-1 Computing a Pay Increase   -- completed\
-2 Rock, Paper, Scissors      -- completed\
-3 String Reverser            -- completed\
-4 Punctuation Marks          -- completed
-
-**4 Classes and Objects**\
-**committed by 4th March**\
-1 Using String Objects     -- completed\
-2 Dice                     -- completed\
-3 Formatting Output        -- completed\
-4 Pin Encryption           -- completed\
-5 Sphere Calculation       -- completed
-
-**5 and 6 Writing Classes and Methods**\
-**committed by 18th March**\
-1 Sphere       -- completed\
-2 Books        -- completed\
-3 Bulb         -- completed\
-4 Accounts     -- completed\
-5 Cards        -- completed
-
-**7 Inheritance**\
-**committed by 8th April**\
-1 Hospital            -- completed\
-2 Player Statistics   -- completed
-
-**8 Polymorphism**\
-**committed by 15th April**\
-1 Firm Vacation           -- completed\
-2 Password                -- completed
-
-**9 Further Arrays**\
-**committed by 22nd April**\
-1 Histogram             -- completed\
-2 L&L Bank Accounts     -- completed\
-3 Post Codes            -- completed\
-4 Quiz Time             -- completed
-
-**Turtle Graphics Assignment**\
-**committed by 6th May 10am**\
-1 Basic Application           -- completed\
-2 Command Processing          -- completed\
-3 Validating Commands        -- completed\
-4 Loading and Saving          -- completed\
-5 Extending OOPGraphics library    -- completed
-
-## Notes
-Add your notes and top tips here.
-
-## The small print
-Enter your details above. Keep your portfolio up to date. You will also store your assignment here.
-When you have done an exercise change **-- to do** to **-- completed**.
-You can use this file to keep any notes that you may find useful in the phase test.
-
-For each of the exercises create a project in the relevant directory (see myBeckett if you do not know how to do this).
-By the end you will have a complete set of projects for the exercises and a project for the assignment in this repo.
-For each project you should create a Readme.md file and show the output of your project.
-This portfolio is marked and therefore needs to follow these instructions.
-
-By submitting this work you are confirming that the work in this repo is your own, with all credit given to any sources of help. Such sources might include software tools.
-You also confirm that you have read and understood the regulations relating to academic misconduct.
+5 Sphere Calculation -- DONE\
+![image](https://github.com/OOP-Classroom/oop-portfolio-2024-Prajjwal-Rimal/assets/132150362/7e2bdf14-3cce-4772-9256-28cf2a4f5824)
