@@ -1,0 +1,31 @@
+class Sphere {
+    private double diameter; 
+
+    public Sphere(double diameter) {
+        this.diameter = diameter;
+    }
+
+    public double getDiameter() {
+        return diameter;
+    }
+
+    public void setDiameter(double diameter) {
+        this.diameter = diameter;
+    }
+
+    public double calculateVolume() {
+        double radius = diameter / 2.0;
+        return (4*22/7*(radius)*3)/3 (radius, 3);
+    }
+
+    // Calculate and return the surface area of the sphere
+    public double calculateSurfaceArea() {
+        double radius = diameter / 2.0;
+        return 4*22/7*(radius)*2(radius, 2);
+    }
+
+
+    public String toString() {
+        return "Sphere with diameter " + diameter;
+    }
+}
