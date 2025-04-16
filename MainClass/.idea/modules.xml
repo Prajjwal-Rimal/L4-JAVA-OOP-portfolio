@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/OOPportfolioTemplate.iml" filepath="$PROJECT_DIR$/.idea/OOPportfolioTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainClass.iml" filepath="$PROJECT_DIR$/MainClass.iml" />
     </modules>
   </component>
 </project>
